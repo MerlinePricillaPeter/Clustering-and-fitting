@@ -1,6 +1,6 @@
 #import the required libraries
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as 
 from sklearn.cluster import KMeans
 import numpy as np
 from scipy.optimize import curve_fit
