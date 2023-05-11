@@ -6,7 +6,7 @@ import numpy as np
 from scipy.optimize import curve_fit
 
 
-# load the data
+# load the dataset
 df = pd.read_csv('API_SM.POP.NETM_DS2_en_csv_v2_5358390.csv', skiprows=4)
 
 #Applying the methods From Practical class
