@@ -1,5 +1,5 @@
 #import the required libraries
-import pandas as 
+import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 import numpy as np
